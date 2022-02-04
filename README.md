@@ -1,5 +1,6 @@
 # web-scraing-job-postings-data
 webs craping of indeed jobs for the post of data analyst 
+# [Checkout explanation of this project through this 8 minute video](https://www.linkedin.com/posts/activity-6895304852138708992-2dNv)
 ![clip-art-job-hunting-career-illustration-png-favpng-YWm1E7HgbiStwvnuPdL2v3fuP](https://user-images.githubusercontent.com/92416952/152586906-bdbe5251-93ee-47b9-aaca-3934ce312e40.jpg)
 
 I have started looking for jobs for the role of a data analyst, to make my job hunt easy, I decided to scrape information about the job postings from the Indeed jobs website.
